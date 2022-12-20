@@ -1,3 +1,4 @@
+//mono /tmp/xbs3vKIGt0.exe
 using System; 
 
 public class Person{
